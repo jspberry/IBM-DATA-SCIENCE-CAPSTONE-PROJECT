@@ -9,14 +9,15 @@ Applied Data Science Capstone Week 2- Final Project Report
 
 Applied Data Science Capstone Week 2- Final Project Notebook - Python Code
 
-Data Files
+Data Files:
+
 area_location.csv
 
 area_venues.csv
 
 Population by travel zone 2011-2056.csv
 
-Output Maps
+Output Maps:
 
 expanding_neighborhoods_sydney.html
 
