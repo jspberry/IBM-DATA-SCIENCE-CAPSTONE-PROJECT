@@ -8,14 +8,10 @@ Applied Data Science Capstone Week 5-Complete Project Report - Full Project Repo
 Applied Data Science Capstone Week 5- Complete Project Notebook - Python Code
 
 Data Files
-
 area_location.csv
 area_venues.csv
 Population by travel zone 2011-2056.csv
-Output Maps
 
+Output Maps
 expanding_neighborhoods_sydney.html
 mapnsw.html
-
-The Best Classifier
-Comparison of different ML algorithms for a Loan Prediction Problem
